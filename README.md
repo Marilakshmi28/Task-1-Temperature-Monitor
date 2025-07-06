@@ -1,3 +1,7 @@
+COMPANY:CODTECH IT SOLUTIONS
+NAME:MARILAKSHMI S
+INTERN ID:CT04DH848DOMAIN:EMBEDDED SYSTEMS
+DURATION:4 WEEKS
 # Task-1-Temperature-Monitor
 Internship project-Temperature sensor using TMP36
 Task 1 – Temperature Monitoring System using TMP36
@@ -17,3 +21,4 @@ Circuit Description:
 Formula Used
 Voltage = analogRead(A0) * (5.0 / 1023.0);
 Temperature = Voltage * 100;
+
